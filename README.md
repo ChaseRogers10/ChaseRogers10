@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there!
+
+I'm Chase, a senior at the University of Oregon majoring in advertising and minoring in digital humanities.
+
+Currently, I'm working on:
+- Advertising production for various client's through UO's **Allen Hall Advertising**.
+- A personal photography project/series documenting and following the unique people and personalities around Oregon. The project has a tentative title of ***"We Know Where Our Feet Should Be Planted"***.
+- Getting to NYC following graduation.
 
 <!--
 **ChaseRogers10/chaserogers10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
